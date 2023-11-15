@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to NovaBank accounts API for QA"
+  contactDetails:
+    name: "QA Y"
+    email: "qay@gmail.com"
+  onCallSupport:
+    -123456
+    -789012

@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Nova Bank loans development"
+  contactDetails:
+    name: "Developer A"
+    email: "developera@gmail.com"
+  onCallSupport:
+    - 1232131
+    - 1343524

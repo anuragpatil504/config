@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to NovaBank accounts API for prod"
+  contactDetails:
+    name: "prod z"
+    email: "prodz@gmail.com"
+  onCallSupport:
+    -123456
+    -789012

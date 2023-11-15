@@ -1,0 +1,13 @@
+
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to Nova bank cards for development"
+  contactDetails:
+    name: "Developer A"
+    email: "developera@gmail.com"
+  onCallSupport:
+    - 123456
+    - 678901
+

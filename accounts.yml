@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to NovaBank accounts API"
+  contactDetails:
+    name: "Developer X"
+    email: "developerx@gmail.com"
+  onCallSupport:
+    -123456
+    -789012

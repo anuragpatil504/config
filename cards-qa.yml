@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to Nova bank cards for qa"
+  contactDetails:
+    name: "qa C"
+    email: "qac@gmail.com"
+  onCallSupport:
+    - 123456
+    - 678901

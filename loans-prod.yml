@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Nova Bank loans production"
+  contactDetails:
+    name: "Prod C"
+    email: "prodc@gmail.com"
+  onCallSupport:
+    - 1232131
+    - 1343524

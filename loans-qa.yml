@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Nova Bank loans qa"
+  contactDetails:
+    name: "qa B"
+    email: "qab@gmail.com"
+  onCallSupport:
+    - 1232131
+    - 1343524
