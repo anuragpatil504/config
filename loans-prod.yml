@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Nova Bank loans production"
+  message: "Welcome to Nova Bank loans production api"
   contactDetails:
     name: "Prod C"
     email: "prodc@gmail.com"
