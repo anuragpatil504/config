@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to NovaBank accounts API"
   contactDetails:
     name: "Developer X"
-    email: "developerx@gmail.com"
+    email: "{cipher}2865f1f04d9952c3029517d5c74444749c202dd082cd87718c7a9e883e5e8347eae8014f9a39834b8971521a1238b04d"
   onCallSupport:
     -123456
     -789012
