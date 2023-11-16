@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Nova Bank loans production api"
+  message: "Welcome to Nova Bank loans production api using rabbitmq"
   contactDetails:
     name: "Prod C"
     email: "prodc@gmail.com"
