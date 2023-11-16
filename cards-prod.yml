@@ -4,7 +4,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Welcome to Nova bank cards for production"
+  message: "Welcome to Nova bank cards for production using rabbitmq"
   contactDetails:
     name: "Prod B"
     email: "prodb@gmail.com"
