@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to NovaBank accounts API for prod refresh using rabbitmq and webhook again"
+  message: "Welcome to NovaBank accounts API for prod refresh using rabbitmq and webhook again error"
   contactDetails:
     name: "prod z"
     email: "{cipher}968180e92eac4f67e07e811b3bb65e698fa5c10796cb68f401fde91a71e13c13"
